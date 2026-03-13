@@ -1,2 +1,9 @@
-# vision-training
-这是一个训练改善斜视的视力康复训练程序
+# Vision Training Software
+
+A simple eye tracking training program built with pygame.
+
+Features:
+- Smooth pursuit training
+- Saccade training
+- Random target
+- Day/Night mode
